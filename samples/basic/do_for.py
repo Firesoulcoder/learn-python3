@@ -9,3 +9,9 @@ for name in names:
 # 打印数字 0 - 9
 for x in range(10):
     print(x)
+
+# third example
+
+age = ('bob', 'mick')
+for ages in age:
+    print(ages)
