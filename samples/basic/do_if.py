@@ -13,3 +13,12 @@ elif age >= 6:
     print('teenager')
 else:
     print('kid')
+
+# second example
+
+quiz = input("what is third planet on our solar system")
+
+if quiz == "earth":
+    print("correct")
+else:
+    print("wrong")
